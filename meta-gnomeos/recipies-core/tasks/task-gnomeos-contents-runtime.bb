@@ -100,4 +100,5 @@ RDEPENDS += "\
 	 nss-altfiles \
          llvm \
          icu \
+         boost \
 	 "

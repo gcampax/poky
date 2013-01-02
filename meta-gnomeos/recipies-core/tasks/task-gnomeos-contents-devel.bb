@@ -85,5 +85,6 @@ RDEPENDS += "     \
 	 e2fsprogs-dev \
 	 krb5-dev \
          llvm-dev \
-         icu-dev
+         icu-dev \
+         boost-dev \
 	 "
